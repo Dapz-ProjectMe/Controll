@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737647022489",
+    "project_id": "my-project-738f0",
+    "storage_bucket": "my-project-738f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737647022489:android:83985337d2708ea3f2c308",
+        "android_client_info": {
+          "package_name": "com.daffa.adminpanel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYOcwZcl7kri4VgdyuQTsn2nLt4rlkamU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
